@@ -1,32 +1,37 @@
-# [Program Title]
+# Leap Year Indicator
 
-  ### By [Author(s)]
+  ### By Taylor Somers
 
 ## Description
 
-  [Description of program functionality & intent presented as an elevator pitch]
+  This website calculates whether a given year inputted by the user is or is not a leap year. In addition to this explicit functionality, it demonstrates some of what I have learned about the usage of bracket notation in jQuery and JavaScript, if/else business logic, user interface logic for displaying and hiding text, and constructing functions in jQuery and Javascript.
 
 ## Languages & Technologies Used:
 
   ### Programming Languages & Libraries
-  * [Unordered List]
+  * Bootstrap
+  * CSS
+  * HTML
+  * JavaScript
+  * jQuery
+  * Markdown
 
   ### Operating Systems & Programs
-  * [Unordered List]
+  * Git Bash
+  * Google Chrome
+  * Microsoft Windows 10
+  * Mozilla Firefox
+  * Visual Studio Code
 
 ## Installation
 
   1. Download a web browser, such as Apple Safari, Google Chrome, Microsoft Edge, Mozilla Firefox, or Yandex.
-  2. Navigate to https://github.com/taylorsomers/[repository].
+  2. Navigate to https://github.com/taylorsomers/leap-year.
   3. Click the green "Clone or download" button at the right of the screen.
   4. Select "Download ZIP."
   5. Use a file extractor or unzip program (such as PeaZip, Unzipper, WinZip, Zipware, or 7-ZIP) to extract the ZIP files onto your computer.
   6. Open the directory containing the extracted files.
   7. Double-click the "index.html" file to run the program through your web browser.
-
-## Specifications
-
-  * [List of behaviors with an input/output example for each.]
 
 ## Known Bugs
 
@@ -34,7 +39,7 @@
 
 ### Contributors
 
-  * [Contributor(s): Anyone who contributed at least %5 of the total product.]
+  * Taylor Somers
 
 ### License
 
